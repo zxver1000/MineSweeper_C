@@ -1,4 +1,4 @@
-# minesweeper_C 
+# MineSweeper_C 
 - 기술스택 - C++
 - 활용 Algorithm - DFS
 
